@@ -1,4 +1,4 @@
-# code-player
+# Code Player
 Very similar to JS Fiddle 
 You will see that there are four panes - three are for editing HTML, CSS and JavaScript, you will enter code into each of these .
 Fotr the final output you need to hit the "RUN" button on the right hand side corner.
